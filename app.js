@@ -15,6 +15,22 @@ const PROJECTS = [
     href: 'https://delphi.pythios.xyz',
     description: 'An interactive whiteboard for thinking in public, with AI woven into the canvas when you need it.',
     status: 'Live'
+  },
+  {
+    name: 'Miletus',
+    highlight: 'Miletus',
+    url: 'miletus.pythios.xyz',
+    href: 'https://miletus.pythios.xyz',
+    description: 'An AI podcast generator that turns your notes into episodes you can listen to on the go.',
+    status: 'Live'
+  },
+  {
+    name: 'Kroton',
+    highlight: 'Kroton',
+    url: 'kroton.pythios.xyz',
+    href: 'https://kroton.pythios.xyz',
+    description: 'An interactive 3D simulator for exploring how an electrical transformer works.',
+    status: 'Live'
   }
 ];
 
